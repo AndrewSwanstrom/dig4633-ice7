@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.XR.Interaction.Toolkit;
 
-public class FireTrigger : MonoBehaviour
+public class Burn : MonoBehaviour
 {
     public XRSocketInteractor socket;  // Reference to the socket interactor
     public ParticleSystem fireEffect;  // Reference to the fire particle system
